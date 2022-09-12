@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "720189c1bfc383b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a7f619c8970438",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63d564d30c81d6b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d06f739a7e03f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5683b4ac60b51f91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3a9d2eaf2de3cdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#C846 \"Key factors of the Partners and suppliers Dimension are\"",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5078125
+  },
+  "right": {
+    "id": "8ac817b128afc4d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "581d9c1918baac21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d18f7d3239446d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e0fb5ef7201889c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5683b4ac60b51f91",
+  "lastOpenFiles": [
+    "Tools & resources/Obsidian Tools.md",
+    "Tools & resources/WGU Class Notes Template.md",
+    "C846 - Business of IT/_Overview_.md",
+    "C841 - Legal Issues in Information Security/_Overview_.md",
+    "Readme.md",
+    "Tools & resources/test note.md",
+    "Tools & resources/test template.md",
+    "C846 - Business of IT/1_Introduction/Relationship Management.md",
+    "Tools & resources/examples.md",
+    "C846 - Business of IT/Practice Test Questions.md"
+  ]
+}
