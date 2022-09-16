@@ -7,7 +7,7 @@ modification date: 2022-08-09  14:55:12
 
 Class: C846 - Business of IT
 Source: LinkedIn
-tags: C846/C846 - Business of IT
+tags: C846
 cards-deck: C846 - Business of IT
 Anki: None
 

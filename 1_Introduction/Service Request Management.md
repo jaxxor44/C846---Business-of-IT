@@ -43,7 +43,7 @@ Anki: 2
 >[!info] card
 >Initiating {1:standard changes to fulfill service requests} is an example of how service request management contributes to the design and transition activity.
 ^1662330217461
-- [x] Convert to Anki [[Practice Quiz 4-Q35.png]] #PracticeQuiz/Four ✅ 2022-09-04
+- [x] Convert to Anki [[Practice Quiz 4-Q35.png]] #PracticeQuiz/Four  ✅ 2022-09-04
 ---
 >[!info] card
 >'Service request management' contributes to the 'improve' value chain by ::: Analyzing data to identify opportunities to provide new service request options. ^1661723470770

@@ -7,9 +7,9 @@ modification date: 2022-08-26  18:45:24
 
 Class: C846 - Business of IT
 Source: Dion Training
-tags: C846/C846 - Business of IT
+tags: C846
 cards-deck: C846 - Business of IT
-
+---
 %%
 FUNDIMENTALS:
 - Focus on concepts, and conceptual note taking.
@@ -17,11 +17,8 @@ FUNDIMENTALS:
 - Have the Key message right up front.
 - Anki cards should be added/edited whenever the note is edited.
 - Link as you go. One good link is worth more than a sentence that can come back.
-	- Link to external sources using APA/MLA ?
-%%
+	- Link to external sources using APA/MLA ? %%
 
-banner_y: 0.5
----
 
 # Practice Test Questions
 >[!tip] Key Message
@@ -42,7 +39,7 @@ Practice Quiz 1-Q10.png
 Maintain question numbering for easier identification.
 
 Create a task with the format:
-[ ] Convert to anki [some image] (#)PracticeQuiz/One 
+[ ] Convert to anki [some image] (# )PracticeQuiz/One 
 Use the above query string to find tasks that have/not been converted.
 %%
 ## Quiz 1 #PracticeQuiz/One 
